@@ -1,5 +1,5 @@
 # Mobile-App-Popularity-Prediction
-In this file I go through the steps of building a machine learning model that is able to predict and classify the popularity of a mobile app.
+For this project I go through the steps of building a machine learning model that is able to predict and classify the popularity of a mobile app.
 
 ## Content
 - Analyzing & Preprocessing data
